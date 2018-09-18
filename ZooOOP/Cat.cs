@@ -10,7 +10,7 @@ namespace ZooOOP
     {
         public Cat()
         {
-            
+            Name = "Catname";
         }
     }
 }
